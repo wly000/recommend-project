@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://root@192.168.19.137:22/miniconda2/envs/reco_sys/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/root/toutiao_project" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
